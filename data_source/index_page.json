@@ -72,62 +72,62 @@
         "9": {
             "banner_conent_id": "9",
             "image": "images/banner.jpg",
-            "headding": "Shaping the Future: Breakthroughs in Materials Research and Innovation",
-            "tag_line": "Materials Science-MNNC October 21-22, 2026 in Singapore",
+            "headding": "Pioneering Advances in Nanotechnology and Innovation",
+            "tag_line": "Nanotechnology-MNNC October 21-22, 2026 in Singapore",
             "content": "Join the world's most in-demand materials science experts at the <b>Materials Science Conference</b>. Learn keynote sessions, speaker insights, and innovation. <b>Download our brochure</b> to see what's more about this conference and book your place now!",
             "page": "index",
             "status": "1",
-            "cid": "10049"
+            "cid": "10050"
         }
     },
     "sessions": [
         {
-            "text": "1.\tMaterials for Energy and the Environment",
+            "text": "1.\tInnovations in Nanotechnology",
             "link": "biomaterials",
             "session_short_name": "Biomaterials"
         },
         {
-            "text": "2.\tMaterials for Electronics, Optics, and Photon",
+            "text": "2.\tNanotechnology for Energy and Environment",
             "link": "applications-for-biomedical-devices",
             "session_short_name": "Applications for Biomedical Devices"
         },
         {
-            "text": "3.\tMicrowave Processing of Materials",
+            "text": "3.\tComputational and Theoretical Nanotechnology",
             "link": "material-for-textile",
             "session_short_name": "Material for Textile"
         },
         {
-            "text": "4.\tGraphene Materials and Technology",
+            "text": "4.\tNanoelectronics and Nano photonics ",
             "link": "drug-delivery",
             "session_short_name": "Drug Delivery"
         },
         {
-            "text": "5.\tMetals and Mining Materials",
+            "text": "5.\tNanotechnology in Agriculture and Food Science",
             "link": "emerging-materials-for-energy-storage-and-conversion",
             "session_short_name": "Emerging Materials for Energy Storage and Conversion"
         },
         {
-            "text": "6.\tEnergy Materials and Storage Technologies",
+            "text": "6.\tNanoscience and Emerging Technologies",
             "link": "material-recycling",
             "session_short_name": "Material Recycling"
         },
         {
-            "text": "7.\tEnvironmental and Sustainable Materials",
+            "text": "7.\tNano biotechnology and Safety Aspects",
             "link": "nano-devices-and-applications",
             "session_short_name": "Nano devices and Applications"
         },
         {
-            "text": "8.\tQuantum Materials and Quantum Computing",
+            "text": "8.\tNano materials, Biomaterials, and Synthesis",
             "link": "mining-and-metallurgy",
             "session_short_name": "Mining and Metallurgy"
         },
         {
-            "text": "9.\tHydrogen Storage and Fuel Cell Materials",
+            "text": "9.\tNano medicine and Drug Delivery",
             "link": "innovations-in-surface-science-and-engineering",
             "session_short_name": "Innovations in Surface Science and Engineering"
         },
         {
-            "text": "10.\tFuture Trends in Materials Development",
+            "text": "10.\tFuture Trends and Applications in Nanotechnology",
             "link": "advanced-semiconductor-materials-for-electronics-and-photonics",
             "session_short_name": "Advanced Semiconductor Materials for Electronics and Photonics"
         }
